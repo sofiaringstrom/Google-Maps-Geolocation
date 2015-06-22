@@ -1,0 +1,36 @@
+html,
+body {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: helvetica;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2,
+h3 {
+	display: inline-block;
+}
+
+#tripMeter {
+	text-align: center;
+}
+
+#start-lat-lon,
+#current-lat-lon {
+	display: none;
+}
+
+#explanation {
+	text-align: center;
+}
+
+#map {
+	width: 100%;
+	height: 500px;
+}
